@@ -54,7 +54,7 @@ Programador junior en ByEvolution
 
 ## :clipboard: Recuperación del CRUD
 
-Recuperación del CRUD. Se aconseja revisar bien y comprobar que se cumplen [TODOS LOS REQUISITOS](https://github.com/IESCampanillas/indice-crud-jsp-dam-2020/blob/master/ejercicio_crud_2020.pdf) los requisitos que pide el enunciado.
+Recuperación del CRUD. Se aconseja revisar bien y comprobar que se cumplen [TODOS LOS REQUISITOS](https://github.com/IESCampanillas/indice-crud-jsp-dam-2020/blob/master/ejercicio_crud_2020.pdf) que pide el enunciado.
 
 :calendar: Plazo: antes de las 15:00 del martes 24 de marzo.
 
