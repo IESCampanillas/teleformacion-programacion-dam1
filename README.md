@@ -56,5 +56,7 @@ Programador junior en ByEvolution
 
 Recuperación del CRUD. Se aconseja revisar bien y comprobar que se cumplen [TODOS LOS REQUISITOS](https://github.com/IESCampanillas/indice-crud-jsp-dam-2020/blob/master/ejercicio_crud_2020.pdf) que pide el enunciado.
 
-:calendar: Plazo: antes de las 15:00 del martes 24 de marzo.
+:calendar: Plazo: antes de las 15:00 del martes 24 de marzo. Este plazo es para los alumnos que, teniendo el examen del segundo trimestre aprobado, tienen suspenso el CRUD.
+
+:calendar: Plazo: antes de las 23:59 del miércoles 15 de abril. Último plazo para recuperar el CRUD.
 
