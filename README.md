@@ -60,3 +60,11 @@ Recuperación del CRUD. Se aconseja revisar bien y comprobar que se cumplen [TOD
 
 :calendar: Plazo: antes de las 23:59 del miércoles 15 de abril. Último plazo para recuperar el CRUD.
 
+
+## :clipboard: Curso de OpenWebinars "Java 8 desde Cero"
+
+Realizar completamente el curso **Java 8 desde Cero** de la plataforma **OpenWebinars** viendo todos los vídeos y superando todas las pruebas. Prácticamente todo o casi todo lo que se trata en el curso ya lo hemos visto en clase, pero sirve muy bien como repaso. Además es algo que podéis poner luego en vuestro CV y en vuestro perfil de LinkedIn.
+
+:clock: Duranción del curso: 09:02:50
+
+:calendar: Plazo: antes de las 15:00 del jueves 2 de abril.
