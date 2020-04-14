@@ -65,6 +65,85 @@ Recuperación del CRUD. Se aconseja revisar bien y comprobar que se cumplen [TOD
 
 Realizar completamente el curso **Java 8 desde Cero** de la plataforma **OpenWebinars** viendo todos los vídeos y superando todas las pruebas. Prácticamente todo, o casi todo, lo que se trata en el curso ya lo hemos visto en clase, pero sirve muy bien como repaso. Además es algo que podéis poner luego en vuestro CV y en vuestro perfil de LinkedIn.
 
-:clock3: Duranción del curso: 09:02:50
+:clock3: Duranción del curso: 09h 02m 50s
 
 :calendar: Plazo: antes de las 15:00 del jueves 2 de abril.
+
+## :information_source: Notas sobre la realización de los cursos y otras tareas de Programación
+
+* Tanto los cursos como cualquier otra tarea que se especifique en este repositorio son obligatorios salvo que se indique lo contrario.
+* Cada vez que un alumno termine un curso o una tarea, lo comunicará mediante mensaje privado por slack al profesor. Ya no es necesario enviar el certificado, sólamente decir que se ha completado lo que se pedía.
+* En caso de que la tarea implique la creación de un nuevo repositorio, cuando el alumno avise del término de dicha tarea, deberá dar el enlace directo al repositorio creado.
+* Los cursos y tareas se han distribuido equitativamente en el calendario teniendo en cuenta la carga horaria de la asignatura **Programación**.
+* Se recomienda realizar las tareas en el horario de la asignatura o, al menos, en los días que se imparte la asignatura que son lunes, miércoles y jueves.
+* El plazo par finalizar cada curso o tarea termina a las 15:00h del día que se establezca como plazo, salvo que se indique lo contrario.
+* Cualquier duda sobre las tareas se deberá preguntar en el canal `#prog-dam`, preferiblemente en el horario de la asignatura.
+
+## :clipboard: Taller de OpenWebinars "Manejo de colecciones en Java 8"
+
+Ver el taller **Manejo de colecciones en Java 8** de la plataforma **OpenWebinars**, hacer un resumen y subirlo a un nuevo repositorio de GitHub.
+
+:clock3: Duranción del taller: 01h 27m
+:clock3: Tiempo total estimado de la actividad (ver el taller y hacer el resumen): 3h
+
+:calendar: Miércoles 15 de abril.
+
+## :clipboard: Explicación detallada y ejemplos sobre una clase concreta
+
+En base al taller **Manejo de colecciones en Java 8** de la plataforma **OpenWebinars**, elegir una de las clases explicadas (no se puede elegir  ninguna de las que se han visto en clase que son `ArrayList` y `HashMap`). Se puede elegir `HashSet`, `TreeSet`, `LinkedList`, etc. Crear un nuevo repositorio en GitHub y dar una información algo más detallada de la clase elegida que en el resumen realizado anteriormente. Poner algunos ejemplos. Se debe mostrar todo de forma clara en el `README.md`.
+
+:clock3: Duranción estimada de la tarea: 2h
+
+:calendar: Jueves 16 de abril.
+
+
+## :clipboard: Curso de OpenWebinars "Java 8 para Programadores Java"
+
+Realizar completamente el curso **Java 8 para Programadores Java** de la plataforma **OpenWebinars** viendo atentamente todos los vídeos, probando los ejemplos de código y superando todas las pruebas. Se trata de un curso de un contenido extenso y variado. Se explican tanto conceptos que se han visto en clase y como conceptos nuevos. Las dudas se irán resolviendo en clase, en el horario de Programación. Si hay dudas generalizadas o es necesario aclarar algún concepto concreto, lo haremos por videoconferencia.
+
+Para llevar una organización tanto del seguimiento del curso como de las dudas que haya que resolver, dividiremos el curso en cuatro bloques correspondientes a cuatro semanas:
+
+### Semana 1
+
+:calendar: Días lunes 20, miércoles 22 y jueves 23 de abril.
+
+* Introducción al diseño de clases en Java
+* Diseño avanzado de clases
+* Clases genéricas y colecciones
+
+### Semana 2
+
+:calendar: Días lunes 27, miércoles 29 y jueves 30 de abril.
+
+* Expresiones lambda e interfaces funcionales
+* Java Stream API
+
+### Semana 3
+
+:calendar: Días lunes 4, miércoles 6 y jueves 7 de mayo.
+
+* Expresiones lambda e interfaces funcionales
+* Java I/O y NIO.2
+
+### Semana 4
+
+:calendar: Días lunes 11, miércoles 13 y jueves 14 de mayo.
+
+* Concurrencia en Java
+* Bases de datos y Java
+
+## :clipboard: Cursos y talleres opcionales para subir nota
+
+Los siguientes cursos son opcionales y sirven para subir la nota final. Únicamente se tendrán en cuenta cuando el alumno lo tenga todo aprobado. Por tanto, no sustituyen a las actividades obligatorias.
+
+* Curso de Java XML
+* Herramientas de testing para un desarrollador Java
+* Curso de Spring Boot y Spring MVC 5
+* Curso de desarrollo de una API REST con Spring Boot
+* Curso de elementos avanzados en tu API REST con Spring Boot
+* Curso de seguridad en tu API REST con Spring Boot
+* Curso Online de Hibernate y JPA
+* Introducción a Thymeleaf
+* Thymeleaf intermedio
+
+:calendar: Fecha tope: jueves 21 de mayo.
