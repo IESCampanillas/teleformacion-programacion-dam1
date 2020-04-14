@@ -122,7 +122,6 @@ Para llevar una organización tanto del seguimiento del curso como de las dudas 
 
 :calendar: Días lunes 4, miércoles 6 y jueves 7 de mayo.
 
-* Expresiones lambda e interfaces funcionales
 * Java I/O y NIO.2
 
 ### Semana 4
