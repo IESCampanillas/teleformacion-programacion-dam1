@@ -131,6 +131,15 @@ Para llevar una organización tanto del seguimiento del curso como de las dudas 
 * Concurrencia en Java
 * Bases de datos y Java
 
+
+## :clipboard: Ejercicio sorpresa
+
+(Aquí irá el enunciado del ejercicio sorpresa)
+
+:clock3: Duranción estimada del ejercicio: 2h
+
+:calendar: lunes 18 de mayo.
+
 ## :clipboard: Cursos y talleres opcionales para subir nota
 
 Los siguientes cursos son opcionales y sirven para subir la nota final. Únicamente se tendrán en cuenta cuando el alumno lo tenga todo aprobado. Por tanto, no sustituyen a las actividades obligatorias.
