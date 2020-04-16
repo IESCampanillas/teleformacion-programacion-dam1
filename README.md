@@ -155,3 +155,7 @@ Los siguientes cursos son opcionales y sirven para subir la nota final. Únicame
 * Thymeleaf intermedio
 
 :calendar: Fecha tope: jueves 21 de mayo.
+
+## :information_source: Instrucciones para la recuperación del segundo trimestre
+
+* Las instrucciones y plazos para la recuperación del segundo trimestre de Programación están en [este documento]().
