@@ -158,4 +158,4 @@ Los siguientes cursos son opcionales y sirven para subir la nota final. Únicame
 
 ## :information_source: Instrucciones para la recuperación del segundo trimestre
 
-* Las instrucciones y plazos para la recuperación del segundo trimestre de Programación están en [este documento]().
+Las instrucciones y plazos para la recuperación del segundo trimestre de Programación están en [este documento](dam_prog_2019_2020__recuperacion_trimestre_2.pdf). Quien tenga pendiente recuperar el CRUD se debe poner en contacto con el profesor.
