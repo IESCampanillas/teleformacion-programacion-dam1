@@ -63,7 +63,7 @@ Recuperación del CRUD. Se aconseja revisar bien y comprobar que se cumplen [TOD
 
 ## :clipboard: Curso de OpenWebinars "Java 8 desde Cero"
 
-Realizar completamente el curso **Java 8 desde Cero** de la plataforma **OpenWebinars** viendo todos los vídeos y superando todas las pruebas. Prácticamente todo, o casi todo, lo que se trata en el curso ya lo hemos visto en clase, pero sirve muy bien como repaso. Además es algo que podéis poner luego en vuestro CV y en vuestro perfil de LinkedIn.
+Realizar completamente el curso [Java 8 desde Cero](https://openwebinars.net/academia/aprende/java-8/) de la plataforma **OpenWebinars** viendo todos los vídeos y superando todas las pruebas. Prácticamente todo, o casi todo, lo que se trata en el curso ya lo hemos visto en clase, pero sirve muy bien como repaso. Además es algo que podéis poner luego en vuestro CV y en vuestro perfil de LinkedIn.
 
 :clock3: Duranción del curso: 09h 02m 50s
 
