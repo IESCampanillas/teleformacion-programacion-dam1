@@ -144,9 +144,11 @@ Para llevar una organización tanto del seguimiento del curso como de las dudas 
 
 Los siguientes cursos son opcionales y sirven para subir la nota final. Únicamente se tendrán en cuenta cuando el alumno lo tenga todo aprobado. Por tanto, no sustituyen a las actividades obligatorias.
 
-* [Curso de Java XML]()
-* [Herramientas de testing para un desarrollador Java]()
+* [Curso de Java XML](https://openwebinars.net/academia/aprende/java-xml/)
+* [Herramientas de testing para un desarrollador Java](https://openwebinars.net/academia/aprende/testing-java/)
 * [Desarrollo Web con JavaEE](https://openwebinars.net/academia/aprende/java-ee/)
+* [Spring Framework](https://openwebinars.net/academia/aprende/spring-framework/)
+* [Curso de Spring Core](https://openwebinars.net/academia/aprende/spring-core/)
 * [Curso de Spring Boot y Spring MVC 5]()
 * [Curso de desarrollo de una API REST con Spring Boot]()
 * [Curso de elementos avanzados en tu API REST con Spring Boot]()
