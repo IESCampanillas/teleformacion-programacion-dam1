@@ -149,13 +149,13 @@ Los siguientes cursos son opcionales y sirven para subir la nota final. Únicame
 * [Desarrollo Web con JavaEE](https://openwebinars.net/academia/aprende/java-ee/)
 * [Spring Framework](https://openwebinars.net/academia/aprende/spring-framework/)
 * [Curso de Spring Core](https://openwebinars.net/academia/aprende/spring-core/)
-* [Curso de Spring Boot y Spring MVC 5]()
-* [Curso de desarrollo de una API REST con Spring Boot]()
-* [Curso de elementos avanzados en tu API REST con Spring Boot]()
-* [Curso de seguridad en tu API REST con Spring Boot]()
-* [Curso Online de Hibernate y JPA]()
-* [Introducción a Thymeleaf]()
-* [Thymeleaf intermedio]()
+* [Curso de Spring Boot y Spring MVC 5](https://openwebinars.net/academia/aprende/spring-boot/)
+* [Curso de desarrollo de una API REST con Spring Boot](https://openwebinars.net/academia/portada/api-rest-spring-boot/)
+* [Curso de elementos avanzados en tu API REST con Spring Boot](https://openwebinars.net/academia/portada/api-rest-spring-boot-avanzado/)
+* [Curso de seguridad en tu API REST con Spring Boot](https://openwebinars.net/academia/portada/seguridad-api-rest-spring-boot/)
+* [Curso Online de Hibernate y JPA](https://openwebinars.net/academia/portada/hibernate/)
+* [Introducción a Thymeleaf](https://openwebinars.net/academia/portada/introduccion-thymeleaf/)
+* [Thymeleaf intermedio](https://openwebinars.net/academia/portada/thymeleaf-intermedio/)
 
 :calendar: Fecha tope: jueves 21 de mayo.
 
