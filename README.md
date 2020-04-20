@@ -63,7 +63,7 @@ Recuperación del CRUD. Se aconseja revisar bien y comprobar que se cumplen [TOD
 
 ## :clipboard: Curso de OpenWebinars "Java 8 desde Cero"
 
-Realizar completamente el curso [Java 8 desde Cero](https://openwebinars.net/academia/aprende/java-8/) de la plataforma **OpenWebinars** viendo todos los vídeos y superando todas las pruebas. Prácticamente todo, o casi todo, lo que se trata en el curso ya lo hemos visto en clase, pero sirve muy bien como repaso. Además es algo que podéis poner luego en vuestro CV y en vuestro perfil de LinkedIn.
+Realizar completamente el curso [Java 8 desde Cero](https://openwebinars.net/academia/aprende/java/) de la plataforma **OpenWebinars** viendo todos los vídeos y superando todas las pruebas. Prácticamente todo, o casi todo, lo que se trata en el curso ya lo hemos visto en clase, pero sirve muy bien como repaso. Además es algo que podéis poner luego en vuestro CV y en vuestro perfil de LinkedIn.
 
 :clock3: Duranción del curso: 09h 02m 50s
 
@@ -90,7 +90,7 @@ Ver el taller **Manejo de colecciones en Java 8** de la plataforma **OpenWebinar
 
 ## :clipboard: Explicación detallada y ejemplos sobre una clase concreta
 
-En base al taller **Manejo de colecciones en Java 8** de la plataforma **OpenWebinars**, elegir una de las clases explicadas (no se puede elegir  ninguna de las que se han visto en clase que son `ArrayList` y `HashMap`). Se puede elegir `HashSet`, `TreeSet`, `LinkedList`, etc. Crear un nuevo repositorio en GitHub y dar una información algo más detallada de la clase elegida que en el resumen realizado anteriormente. Poner algunos ejemplos. Se debe mostrar todo de forma clara en el `README.md`.
+En base al taller [Manejo de colecciones en Java 8](https://openwebinars.net/academia/aprende/colecciones-java/) de la plataforma **OpenWebinars**, elegir una de las clases explicadas (no se puede elegir  ninguna de las que se han visto en clase que son `ArrayList` y `HashMap`). Se puede elegir `HashSet`, `TreeSet`, `LinkedList`, etc. Crear un nuevo repositorio en GitHub y dar una información algo más detallada de la clase elegida que en el resumen realizado anteriormente. Poner algunos ejemplos. Se debe mostrar todo de forma clara en el `README.md`.
 
 :clock3: Duranción estimada de la tarea: 2h
 
@@ -99,7 +99,7 @@ En base al taller **Manejo de colecciones en Java 8** de la plataforma **OpenWeb
 
 ## :clipboard: Curso de OpenWebinars "Java 8 para Programadores Java"
 
-Realizar completamente el curso **Java 8 para Programadores Java** de la plataforma **OpenWebinars** viendo atentamente todos los vídeos, probando los ejemplos de código y superando todas las pruebas. Se trata de un curso de un contenido extenso y variado. Se explican tanto conceptos que se han visto en clase y como conceptos nuevos. Las dudas se irán resolviendo en clase, en el horario de Programación. Si hay dudas generalizadas o es necesario aclarar algún concepto concreto, lo haremos por videoconferencia.
+Realizar completamente el curso [Java 8 para Programadores Java](https://openwebinars.net/academia/aprende/java-8/) de la plataforma **OpenWebinars** viendo atentamente todos los vídeos, probando los ejemplos de código y superando todas las pruebas. Se trata de un curso de un contenido extenso y variado. Se explican tanto conceptos que se han visto en clase y como conceptos nuevos. Las dudas se irán resolviendo en clase, en el horario de Programación. Si hay dudas generalizadas o es necesario aclarar algún concepto concreto, lo haremos por videoconferencia.
 
 Para llevar una organización tanto del seguimiento del curso como de las dudas que haya que resolver, dividiremos el curso en cuatro bloques correspondientes a cuatro semanas:
 
