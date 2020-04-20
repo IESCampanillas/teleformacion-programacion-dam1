@@ -144,15 +144,16 @@ Para llevar una organización tanto del seguimiento del curso como de las dudas 
 
 Los siguientes cursos son opcionales y sirven para subir la nota final. Únicamente se tendrán en cuenta cuando el alumno lo tenga todo aprobado. Por tanto, no sustituyen a las actividades obligatorias.
 
-* Curso de Java XML
-* Herramientas de testing para un desarrollador Java
-* Curso de Spring Boot y Spring MVC 5
-* Curso de desarrollo de una API REST con Spring Boot
-* Curso de elementos avanzados en tu API REST con Spring Boot
-* Curso de seguridad en tu API REST con Spring Boot
-* Curso Online de Hibernate y JPA
-* Introducción a Thymeleaf
-* Thymeleaf intermedio
+* [Curso de Java XML]()
+* [Herramientas de testing para un desarrollador Java]()
+* [Desarrollo Web con JavaEE](https://openwebinars.net/academia/aprende/java-ee/)
+* [Curso de Spring Boot y Spring MVC 5]()
+* [Curso de desarrollo de una API REST con Spring Boot]()
+* [Curso de elementos avanzados en tu API REST con Spring Boot]()
+* [Curso de seguridad en tu API REST con Spring Boot]()
+* [Curso Online de Hibernate y JPA]()
+* [Introducción a Thymeleaf]()
+* [Thymeleaf intermedio]()
 
 :calendar: Fecha tope: jueves 21 de mayo.
 
