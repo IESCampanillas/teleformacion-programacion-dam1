@@ -111,6 +111,12 @@ Para llevar una organización tanto del seguimiento del curso como de las dudas 
 * Diseño avanzado de clases
 * Clases genéricas y colecciones
 
+#### :tv: Vídeos
+
+* :tv: Instancia anónima: <https://youtu.be/SgD4Ec3BYCc>
+* :tv: Clase anónima: <https://youtu.be/aRmATktw6Ps>
+* :tv: Clase local: <https://youtu.be/MrrD6G4mRRI>
+
 ### Semana 2
 
 :calendar: Días lunes 27, miércoles 29 y jueves 30 de abril.
