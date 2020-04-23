@@ -113,9 +113,9 @@ Para llevar una organización tanto del seguimiento del curso como de las dudas 
 
 #### :tv: Vídeos
 
-* :tv: Instancia anónima: <https://youtu.be/SgD4Ec3BYCc>
-* :tv: Clase anónima: <https://youtu.be/aRmATktw6Ps>
-* :tv: Clase local: <https://youtu.be/MrrD6G4mRRI>
+* Instancia anónima: <https://youtu.be/SgD4Ec3BYCc>
+* Clase anónima: <https://youtu.be/aRmATktw6Ps>
+* Clase local: <https://youtu.be/MrrD6G4mRRI>
 
 ### Semana 2
 
