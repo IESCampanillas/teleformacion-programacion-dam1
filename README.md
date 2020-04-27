@@ -169,6 +169,25 @@ Los siguientes cursos son opcionales y sirven para subir la nota final. Únicame
 
 Las instrucciones y plazos para la recuperación del segundo trimestre de Programación están en [este documento](dam_prog_2019_2020__recuperacion_trimestre_2.pdf). Quien tenga pendiente recuperar el CRUD se debe poner en contacto con el profesor.
 
+## :information_source: Ejercicios de Expresiones Lambda y Streams
+
+El enunciado completo para la realización de los ejercicios de expresiones lambda y streams está en [este documento](dam_prog_2019_2020__ejercicios_expresiones_lambda.pdf).
+
+El programa ejecutable junto con las dependencias está en [este fichero comprimido](dist.zip). Puede servir para que el alumno se haga una idea de cómo tiene que quedar finalmente el programa. Para probarlo, sigue lo siguientes pasos:
+
+* Descarga el archivo [dist.zip](dist.zip)
+* Descomprímelo.
+* Mediante una ventana de terminal, entra en el directorio `dist`:
+  ```console
+  cd dist
+  ```
+* Ejecuta el programa:
+  ```console
+  java -jar EjerciciosExpresionesLambdaYStreams.jar
+  ```
+
+:calendar: Fecha tope: jueves 21 de mayo.
+
 <hr>
 
 :star: Si te ha resultado útil este repositorio ¡dale una estrellita!
