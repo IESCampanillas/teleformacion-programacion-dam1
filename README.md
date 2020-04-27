@@ -171,7 +171,7 @@ Las instrucciones y plazos para la recuperación del segundo trimestre de Progra
 
 ## :clipboard: Ejercicios de Expresiones Lambda y Streams
 
-El enunciado completo para la realización de los ejercicios de expresiones lambda y streams está en [este documento](dam_prog_2019_2020__ejercicios_expresiones_lambda.pdf). También está disponible el archivo [personas.json] con los datos.
+El enunciado completo para la realización de los ejercicios de expresiones lambda y streams está en [este documento](dam_prog_2019_2020__ejercicios_expresiones_lambda.pdf). También está disponible el archivo [personas.json](personas.json) con los datos.
 
 El programa ejecutable junto con las dependencias está en [este fichero comprimido](dist.zip). Puede servir para que el alumno se haga una idea de cómo tiene que quedar finalmente el programa. Para probarlo, sigue lo siguientes pasos:
 
