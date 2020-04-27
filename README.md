@@ -169,7 +169,7 @@ Los siguientes cursos son opcionales y sirven para subir la nota final. Únicame
 
 Las instrucciones y plazos para la recuperación del segundo trimestre de Programación están en [este documento](dam_prog_2019_2020__recuperacion_trimestre_2.pdf). Quien tenga pendiente recuperar el CRUD se debe poner en contacto con el profesor.
 
-## :information_source: Ejercicios de Expresiones Lambda y Streams
+## :clipboard: Ejercicios de Expresiones Lambda y Streams
 
 El enunciado completo para la realización de los ejercicios de expresiones lambda y streams está en [este documento](dam_prog_2019_2020__ejercicios_expresiones_lambda.pdf). También está disponible el archivo [personas.json] con los datos.
 
