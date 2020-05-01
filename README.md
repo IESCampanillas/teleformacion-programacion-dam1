@@ -162,6 +162,7 @@ Los siguientes cursos son opcionales y sirven para subir la nota final. Únicame
 * [Curso Online de Hibernate y JPA](https://openwebinars.net/academia/portada/hibernate/)
 * [Introducción a Thymeleaf](https://openwebinars.net/academia/portada/introduccion-thymeleaf/)
 * [Thymeleaf intermedio](https://openwebinars.net/academia/portada/thymeleaf-intermedio/)
+* [Curso Java Server Faces](https://openwebinars.net/academia/aprende/javaserver-faces-jsf/)
 * [Java 9: Nueva filosofía y funcionalidades](https://openwebinars.net/academia/aprende/java-9-funcionalidades/)
 
 :calendar: Fecha tope: jueves 21 de mayo.
