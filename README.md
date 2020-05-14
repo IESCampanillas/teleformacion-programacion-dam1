@@ -190,6 +190,11 @@ El programa ejecutable junto con las dependencias está en [este fichero comprim
 
 :calendar: Fecha tope: jueves 21 de mayo.
 
+## Transcomunicación instrumental mediante ficheros de texto digitales
+
+Se trata de un ejercicio voluntario. El enunciado es el del **Ejercicio 1** del **Apéndice A. Ejercicios de ampliación** del libro [Aprende Java con Ejercicios](https://leanpub.com/aprendejava).
+
+:calendar: Fecha tope: jueves 21 de mayo.
 <hr>
 
 :star: Si te ha resultado útil este repositorio ¡dale una estrellita!
