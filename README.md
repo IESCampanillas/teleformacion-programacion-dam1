@@ -165,7 +165,7 @@ Los siguientes cursos son opcionales y sirven para subir la nota final. Únicame
 * [Curso Java Server Faces](https://openwebinars.net/academia/aprende/javaserver-faces-jsf/)
 * [Java 9: Nueva filosofía y funcionalidades](https://openwebinars.net/academia/aprende/java-9-funcionalidades/)
 
-:calendar: Fecha tope: jueves 21 de mayo.
+:calendar: Fecha tope: jueves 25 de mayo.
 
 ## :information_source: Instrucciones para la recuperación del segundo trimestre
 
