@@ -195,6 +195,20 @@ El programa ejecutable junto con las dependencias está en [este fichero comprim
 Se trata de un ejercicio voluntario. El enunciado es el del **Ejercicio 1** del **Apéndice A. Ejercicios de ampliación** del libro [Aprende Java con Ejercicios](https://leanpub.com/aprendejava).
 
 :calendar: Fecha tope: jueves 25 de mayo.
+
+## :gift: Instrucciones para subir nota en la convocatoria de junio
+
+Existe la posibilidad de subir nota en la asignatura de Programación en la convocatoria extraordinaria de junio. Los alumnos que quieran optar a subir nota deberán comunicarlo por Slack al profesor como muy tarde **el jueves 4 de junio** para hacerles un seguimiento. Se podrá subir un punto la nota final en caso de realizar correctamente todas las tareas que se piden.
+
+Las tareas necesarias para subir nota son las siguientes:
+
+* Juego de la vida propuesto en clase.
+* Completar al menos 7 de los 14 cursos propuestos en este mismo repositorio, en el apartado "Cursos y talleres opcionales para subir nota"
+* Ejercicios de Expresiones Lambda y Streams
+* Aplicación "Transcomunicación instrumental mediante ficheros de texto digitales"
+
+:calendar: Fecha tope: jueves 18 de junio (se hará un seguimiento semanal).
+
 <hr>
 
 :star: Si te ha resultado útil este repositorio ¡dale una estrellita!
